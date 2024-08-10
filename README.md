@@ -50,13 +50,13 @@ To run this project, you'll need:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/coming-soon-page.git
+    git clone https://github.com/Murtaza-Ax/coming-soon.git
     ```
 
 2. **Open the project** in your favorite code editor:
 
     ```bash
-    cd coming-soon-page
+    cd coming-soon
     ```
 
 3. **Run the project**:
